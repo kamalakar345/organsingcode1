@@ -1,0 +1,6 @@
+[submodule "term2048"]
+	path = term2048
+	url = https://github.com/kamalakar345/term2048.git
+[submodule "pelican"]
+	path = pelican
+	url = https://github.com/kamalakar345/pelican.git
